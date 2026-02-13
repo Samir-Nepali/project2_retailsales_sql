@@ -16,9 +16,9 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ## Reports
 
-1.**Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-2.**Trend Analysis**: Insights into sales trends across different months and shifts.
-3.**Customer Insights**: Reports on top customers and unique customer counts per category.
+1.**Sales Summary**:A detailed report summarizing total sales, customer demographics, and category performance.
+2.**Trend Analysis**:Insights into sales trends across different months and shifts.
+3.**Customer Insights**:Reports on top customers and unique customer counts per category.
 
 ## End
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
